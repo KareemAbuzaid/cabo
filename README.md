@@ -1,6 +1,6 @@
-Welcome to capo
+Welcome to cabo
 
-capo is a datetype with the following properties:
+cabo is a datetype with the following properties:
 
  1- Items can be added using str keys.
  
